@@ -59,6 +59,12 @@ DEALINGS IN THE SOFTWARE.
 #define MICROBIT_PIN_P19                    P0_0        //SCL
 #define MICROBIT_PIN_P20                    P0_30       //SDA
 
+// Calliope Added pin for the speaker
+#define CALLIOPE_PIN_MOTOR_SLEEP            P0_28     // motor driver sleep pin
+#define CALLIOPE_PIN_MOTOR_IN1              P0_29     // motor driver pin 1 / sound
+#define CALLIOPE_PIN_MOTOR_IN2              P0_30     // motor driver pin 2 / sound
+
+
 #define MICROBIT_PIN_MAX_OUTPUT             1023
 
 #define MICROBIT_PIN_MAX_SERVO_RANGE        180
