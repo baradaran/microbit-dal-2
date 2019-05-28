@@ -52,6 +52,7 @@ set(YOTTA_AUTO_MICROBIT-DAL_CPP_FILES
     "drivers/LSM303Accelerometer.cpp"
     "drivers/LSM303Magnetometer.cpp"
     "drivers/MicroBitMemoryMap.cpp"
+    "drivers/CalliopeSoundMotor.cpp"
 
     "bluetooth/MicroBitAccelerometerService.cpp"
     "bluetooth/MicroBitBLEManager.cpp"
