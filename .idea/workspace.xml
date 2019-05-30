@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f30fe4ef-af12-413b-be64-84a7290d1984" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/inc/drivers/MicroBitButton.h" beforeDir="false" afterPath="$PROJECT_DIR$/inc/drivers/MicroBitButton.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/drivers/MicroBitPin.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="615">
               <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
             </state>
           </provider>
@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/drivers/MicroBitButton.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
+            <state relative-caret-position="-936">
+              <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -79,8 +79,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="836" />
-    <option name="y" value="267" />
+    <option name="x" value="723" />
+    <option name="y" value="217" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -89,29 +89,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="microbit-dal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microbit-dal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microbit-dal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microbit-dal" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microbit-dal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microbit-dal" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,18 +124,18 @@
       <updated>1559210158084</updated>
       <workItem from="1559210159252" duration="1330000" />
       <workItem from="1559213947834" duration="314000" />
-      <workItem from="1559219299903" duration="87000" />
+      <workItem from="1559219299903" duration="353000" />
+      <workItem from="1559220788679" duration="164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1731000" />
+    <option name="totallyTimeSpent" value="2161000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="836" y="267" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="723" y="217" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,15 +171,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/drivers/MicroBitPin.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="615">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/drivers/MicroBitButton.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
+        <state relative-caret-position="-936">
+          <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
         </state>
       </provider>
     </entry>
