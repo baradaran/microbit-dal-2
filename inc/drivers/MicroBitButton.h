@@ -32,7 +32,9 @@ DEALINGS IN THE SOFTWARE.
 #include "MicroBitEvent.h"
 
 #define MICROBIT_PIN_BUTTON_A                   P0_17
-#define MICROBIT_PIN_BUTTON_B                   P0_26
+#define MICROBIT_PIN_BUTTON_B                   P0_16   //To support Calliope change the pin to 16
+//#define MICROBIT_PIN_BUTTON_B                   P0_26
+
 #define MICROBIT_PIN_BUTTON_RESET               P0_19
 
 #define MICROBIT_BUTTON_EVT_DOWN                1
