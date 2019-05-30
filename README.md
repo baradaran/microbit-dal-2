@@ -1,6 +1,6 @@
-# microbit-dal
+# Calliope-dal
 
-The core set of drivers, mechanisms and types that make up the micro:bit runtime.
+The core set of drivers, mechanisms and types that is adapted to use on Calliope.
 
 ## Overview
 
