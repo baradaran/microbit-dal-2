@@ -40,8 +40,8 @@ DEALINGS IN THE SOFTWARE.
 
 //#defines for each edge connector pin
 #define MICROBIT_PIN_P0                     P0_3        //P0 is the left most pad (ANALOG/DIGITAL) used to be P0_3 on green board
-#define MICROBIT_PIN_P1                     P0_2        //P1 is the middle pad (ANALOG/DIGITAL)
-#define MICROBIT_PIN_P2                     P0_1        //P2 is the right most pad (ANALOG/DIGITAL) used to be P0_1 on green board
+#define MICROBIT_PIN_P1                     P0_1        //P1 is the middle pad (ANALOG/DIGITAL)
+#define MICROBIT_PIN_P2                     P0_2        //P2 is the right most pad (ANALOG/DIGITAL) used to be P0_1 on green board
 #define MICROBIT_PIN_P3                     P0_4        //COL1 (ANALOG/DIGITAL)
 #define MICROBIT_PIN_P4                     P0_5        //COL2 (ANALOG/DIGITAL)
 #define MICROBIT_PIN_P5                     P0_17       //BTN_A
