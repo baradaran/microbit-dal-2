@@ -58,6 +58,9 @@ DEALINGS IN THE SOFTWARE.
 #define MICROBIT_ID_IO_P16              23          //PIN 16
 #define MICROBIT_ID_IO_P19              24          //SCL
 #define MICROBIT_ID_IO_P20              25          //SDA
+//to support the MIC
+#define MICROBIT_ID_IO_P21              37          //MIC
+ 
 
 
 #define MICROBIT_ID_BUTTON_AB           26          // Button A+B multibutton
