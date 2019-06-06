@@ -43,10 +43,11 @@ DEALINGS IN THE SOFTWARE.
 MicroBitIO::MicroBitIO(int ID_P0, int ID_P1, int ID_P2,
                        int ID_P3, int ID_P4, int ID_P5,
                        int ID_P6, int ID_P7, int ID_P8,
-                       int ID_P9, int ID_P10,int ID_P11,
-                       int ID_P12,int ID_P13,int ID_P14,
-                       int ID_P15,int ID_P16,int ID_P17,int ID_P18,int ID_P19,
-                       int ID_P20, int ID_P21) :
+                       int ID_P9, int ID_P10, int ID_P11,
+                       int ID_P12, int ID_P13, int ID_P14,
+                       int ID_P15, int ID_P16, int ID_P17,
+                       int ID_P18, int ID_P19, int ID_P20,
+                       int ID_P21) :
     P0 (ID_P0, MICROBIT_PIN_P0, PIN_CAPABILITY_ALL),             //P0 is the left most pad (ANALOG/DIGITAL/TOUCH)
     P1 (ID_P1, MICROBIT_PIN_P1, PIN_CAPABILITY_ALL),             //P1 is the middle pad (ANALOG/DIGITAL/TOUCH)
     P2 (ID_P2, MICROBIT_PIN_P2, PIN_CAPABILITY_ALL),             //P2 is the right most pad (ANALOG/DIGITAL/TOUCH)
@@ -64,8 +65,8 @@ MicroBitIO::MicroBitIO(int ID_P0, int ID_P1, int ID_P2,
     P14(ID_P14,MICROBIT_PIN_P14,PIN_CAPABILITY_STANDARD),        //MISO
     P15(ID_P15,MICROBIT_PIN_P15,PIN_CAPABILITY_STANDARD),        //MOSI
     P16(ID_P16,MICROBIT_PIN_P16,PIN_CAPABILITY_STANDARD),        //PIN 16
-    P17(ID_P17,MICROBIT_PIN_P17,PIN_CAPABILITY_STANDARD),        //PIN 17  Calliope?
-    P18(ID_P18,MICROBIT_PIN_P18,PIN_CAPABILITY_STANDARD),        //PIN 18  Calliope?
+    P17(ID_P17,MICROBIT_PIN_P17,PIN_CAPABILITY_STANDARD),        //PIN 17  Calliope
+    P18(ID_P18,MICROBIT_PIN_P18,PIN_CAPABILITY_STANDARD),        //PIN 18  Calliope
     P19(ID_P19,MICROBIT_PIN_P19,PIN_CAPABILITY_STANDARD),        //SCL
     P20(ID_P20,MICROBIT_PIN_P20,PIN_CAPABILITY_STANDARD),         //SDA
     P21(ID_P21,MICROBIT_PIN_P21,PIN_CAPABILITY_STANDARD)         //MIC
