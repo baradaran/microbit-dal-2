@@ -57,6 +57,8 @@ DEALINGS IN THE SOFTWARE.
 #define MICROBIT_PIN_P14                    P0_22       //MISO
 #define MICROBIT_PIN_P15                    P0_21       //MOSI
 #define MICROBIT_PIN_P16                    P0_16       //PIN 16
+#define MICROBIT_PIN_P17                    P0_17       //PIN 17 defined for Calliope?
+#define MICROBIT_PIN_P18                    P0_18       //PIN 18 defined for Calliope?
 #define MICROBIT_PIN_P19                    P0_0        //SCL
 #define MICROBIT_PIN_P20                    P0_30       //SDA
 #define MICROBIT_PIN_P21                    MIC         // CM: analog microphone
