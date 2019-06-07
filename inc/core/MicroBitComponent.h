@@ -37,7 +37,7 @@ DEALINGS IN THE SOFTWARE.
 #define MICROBIT_ID_DISPLAY             6
 
 //EDGE connector events
-#define MICROBIT_IO_PINS                20
+#define MICROBIT_IO_PINS                21
 
 #define MICROBIT_ID_IO_P0               7           //P0 is the left most pad (ANALOG/DIGITAL)
 #define MICROBIT_ID_IO_P1               8           //P1 is the middle pad (ANALOG/DIGITAL)
@@ -59,7 +59,7 @@ DEALINGS IN THE SOFTWARE.
 #define MICROBIT_ID_IO_P19              24          //SCL
 #define MICROBIT_ID_IO_P20              25          //SDA
 //to support the MIC
-#define MICROBIT_ID_IO_P21              37          //MIC
+#define MICROBIT_ID_IO_P21              50          //MIC
  
 
 
